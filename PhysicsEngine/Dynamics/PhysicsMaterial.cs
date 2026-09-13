@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace PhysicsEngine.Dynamics
 {
-    public class PhysicsMaterial
+    public readonly struct PhysicsMaterial
     {
+        public double restitution { get; }
+        public double friction { get; }
+
+        public PhysicsMaterial(double res, double fric)
+        {
+            restitution = res;
+            friction = fric;
+        }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\natan\OneDrive\Desktop\Billiard\PhysicsEngine\bin\Debug\net8.0\PhysicsEngine.deps.json
+C:\Users\natan\OneDrive\Desktop\Billiard\PhysicsEngine\bin\Debug\net8.0\PhysicsEngine.dll
+C:\Users\natan\OneDrive\Desktop\Billiard\PhysicsEngine\bin\Debug\net8.0\PhysicsEngine.pdb
+C:\Users\natan\OneDrive\Desktop\Billiard\PhysicsEngine\obj\Debug\net8.0\PhysicsEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\OneDrive\Desktop\Billiard\PhysicsEngine\obj\Debug\net8.0\PhysicsEngine.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive\Desktop\Billiard\PhysicsEngine\obj\Debug\net8.0\PhysicsEngine.AssemblyInfo.cs
+C:\Users\natan\OneDrive\Desktop\Billiard\PhysicsEngine\obj\Debug\net8.0\PhysicsEngine.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Desktop\Billiard\PhysicsEngine\obj\Debug\net8.0\PhysicsEngine.sourcelink.json
+C:\Users\natan\OneDrive\Desktop\Billiard\PhysicsEngine\obj\Debug\net8.0\PhysicsEngine.dll
+C:\Users\natan\OneDrive\Desktop\Billiard\PhysicsEngine\obj\Debug\net8.0\refint\PhysicsEngine.dll
+C:\Users\natan\OneDrive\Desktop\Billiard\PhysicsEngine\obj\Debug\net8.0\PhysicsEngine.pdb
+C:\Users\natan\OneDrive\Desktop\Billiard\PhysicsEngine\obj\Debug\net8.0\ref\PhysicsEngine.dll

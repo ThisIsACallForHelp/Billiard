@@ -1,66 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\",
+  "WorkspaceRootPath": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\user\\desktop\\8-pool\\billiard\\physicsengine\\mathcalculator\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\mathcalculator\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\user\\desktop\\8-pool\\billiard\\physicsengine\\mathcalculator\\matrix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\mathcalculator\\matrix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\user\\desktop\\8-pool\\billiard\\physicsengine\\collision\\circlecollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\collision\\circlecollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\user\\desktop\\8-pool\\billiard\\physicsengine\\integration\\physicsintegrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\integration\\physicsintegrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\user\\desktop\\8-pool\\billiard\\physicsengine\\dynamics\\rigitdbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\dynamics\\rigitdbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\user\\desktop\\8-pool\\billiard\\physicsengine\\dynamics\\physicsworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\dynamics\\physicsworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\user\\desktop\\8-pool\\billiard\\physicsengine\\dynamics\\physicsmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\dynamics\\physicsmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\user\\desktop\\8-pool\\billiard\\physicsengine\\collision\\collisionresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\collision\\collisionresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\user\\desktop\\8-pool\\billiard\\physicsengine\\collision\\collisionmanifold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\collision\\collisionmanifold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\user\\desktop\\8-pool\\billiard\\physicsengine\\collision\\collisiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\collision\\collisiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\user\\desktop\\8-pool\\billiard\\physicsengine\\collision\\collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\natan\\onedrive\\desktop\\billiard\\physicsengine\\collision\\collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\collision\\collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\user\\desktop\\8-pool\\billiard\\physicsengine\\physicsengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\physicsengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\natan\\onedrive\\desktop\\billiard\\physicsengine\\dynamics\\physicsworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\dynamics\\physicsworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\user\\desktop\\8-pool\\billiard\\physicsengine\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\natan\\onedrive\\desktop\\billiard\\physicsengine\\integration\\physicsintegrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\integration\\physicsintegrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\natan\\onedrive\\desktop\\billiard\\physicsengine\\collision\\circlecollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\collision\\circlecollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\natan\\onedrive\\desktop\\billiard\\physicsengine\\collision\\collisiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\collision\\collisiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\natan\\onedrive\\desktop\\billiard\\physicsengine\\collision\\collisionmanifold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\collision\\collisionmanifold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\natan\\onedrive\\desktop\\billiard\\physicsengine\\collision\\collisionresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\collision\\collisionresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\natan\\onedrive\\desktop\\billiard\\physicsengine\\collision\\linecollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\collision\\linecollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\natan\\onedrive\\desktop\\billiard\\physicsengine\\dynamics\\physicsmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\dynamics\\physicsmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\natan\\onedrive\\desktop\\billiard\\physicsengine\\dynamics\\rigidbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\dynamics\\rigidbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\natan\\onedrive\\desktop\\billiard\\physicsengine\\mathcalculator\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\mathcalculator\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\natan\\onedrive\\desktop\\billiard\\physicsengine\\mathcalculator\\matrix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\mathcalculator\\matrix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\natan\\onedrive\\desktop\\billiard\\physicsengine\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C49FF0B2-54F9-4BC2-998C-41398D678831}|Server\\Server.csproj|c:\\users\\user\\desktop\\8-pool\\billiard\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C49FF0B2-54F9-4BC2-998C-41398D678831}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|c:\\users\\natan\\onedrive\\desktop\\billiard\\physicsengine\\physicsengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1943979-B5AA-4B26-B52B-26FE0A812DA5}|PhysicsEngine\\PhysicsEngine.csproj|solutionrelative:physicsengine\\physicsengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0E3109A-EB9E-4F76-B744-437A69466823}|Game\\Game.csproj|c:\\users\\user\\desktop\\8-pool\\billiard\\game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E0E3109A-EB9E-4F76-B744-437A69466823}|Game\\Game.csproj|solutionrelative:game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C49FF0B2-54F9-4BC2-998C-41398D678831}|Server\\Server.csproj|c:\\users\\natan\\onedrive\\desktop\\billiard\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FF0B2-54F9-4BC2-998C-41398D678831}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,10 +90,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
             },
             {
@@ -107,153 +103,179 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PhysicsIntegrator.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Integration\\PhysicsIntegrator.cs",
-              "RelativeDocumentMoniker": "PhysicsEngine\\Integration\\PhysicsIntegrator.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Integration\\PhysicsIntegrator.cs",
-              "RelativeToolTip": "PhysicsEngine\\Integration\\PhysicsIntegrator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T18:29:38.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CollisionResolver.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Collision\\CollisionResolver.cs",
-              "RelativeDocumentMoniker": "PhysicsEngine\\Collision\\CollisionResolver.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Collision\\CollisionResolver.cs",
-              "RelativeToolTip": "PhysicsEngine\\Collision\\CollisionResolver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T18:29:24.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Matrix2.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\MathCalculator\\Matrix2.cs",
-              "RelativeDocumentMoniker": "PhysicsEngine\\MathCalculator\\Matrix2.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\MathCalculator\\Matrix2.cs",
-              "RelativeToolTip": "PhysicsEngine\\MathCalculator\\Matrix2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T18:27:36.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Vector2.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\MathCalculator\\Vector2.cs",
-              "RelativeDocumentMoniker": "PhysicsEngine\\MathCalculator\\Vector2.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\MathCalculator\\Vector2.cs",
-              "RelativeToolTip": "PhysicsEngine\\MathCalculator\\Vector2.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAqwEAAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T18:27:25.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CollisionManifold.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Collision\\CollisionManifold.cs",
-              "RelativeDocumentMoniker": "PhysicsEngine\\Collision\\CollisionManifold.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Collision\\CollisionManifold.cs",
-              "RelativeToolTip": "PhysicsEngine\\Collision\\CollisionManifold.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T18:29:06.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CollisionDetector.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Collision\\CollisionDetector.cs",
-              "RelativeDocumentMoniker": "PhysicsEngine\\Collision\\CollisionDetector.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Collision\\CollisionDetector.cs",
-              "RelativeToolTip": "PhysicsEngine\\Collision\\CollisionDetector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T18:28:49.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "CircleCollider.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Collision\\CircleCollider.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Collision\\CircleCollider.cs",
               "RelativeDocumentMoniker": "PhysicsEngine\\Collision\\CircleCollider.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Collision\\CircleCollider.cs",
+              "ToolTip": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Collision\\CircleCollider.cs",
               "RelativeToolTip": "PhysicsEngine\\Collision\\CircleCollider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-08T18:28:39.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Collider.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Collision\\Collider.cs",
-              "RelativeDocumentMoniker": "PhysicsEngine\\Collision\\Collider.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Collision\\Collider.cs",
-              "RelativeToolTip": "PhysicsEngine\\Collision\\Collider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PhysicsIntegrator.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Integration\\PhysicsIntegrator.cs",
+              "RelativeDocumentMoniker": "PhysicsEngine\\Integration\\PhysicsIntegrator.cs",
+              "ToolTip": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Integration\\PhysicsIntegrator.cs",
+              "RelativeToolTip": "PhysicsEngine\\Integration\\PhysicsIntegrator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T18:28:30.85Z",
+              "WhenOpened": "2026-09-08T18:29:38.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PhysicsMaterial.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Dynamics\\PhysicsMaterial.cs",
-              "RelativeDocumentMoniker": "PhysicsEngine\\Dynamics\\PhysicsMaterial.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Dynamics\\PhysicsMaterial.cs",
-              "RelativeToolTip": "PhysicsEngine\\Dynamics\\PhysicsMaterial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T18:28:19.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "PhysicsWorld.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Dynamics\\PhysicsWorld.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Dynamics\\PhysicsWorld.cs",
               "RelativeDocumentMoniker": "PhysicsEngine\\Dynamics\\PhysicsWorld.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Dynamics\\PhysicsWorld.cs",
+              "ToolTip": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Dynamics\\PhysicsWorld.cs",
               "RelativeToolTip": "PhysicsEngine\\Dynamics\\PhysicsWorld.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwC4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-08T18:28:09.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Collider.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Collision\\Collider.cs",
+              "RelativeDocumentMoniker": "PhysicsEngine\\Collision\\Collider.cs",
+              "ToolTip": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Collision\\Collider.cs",
+              "RelativeToolTip": "PhysicsEngine\\Collision\\Collider.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T18:28:30.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RigitdBody.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Dynamics\\RigitdBody.cs",
-              "RelativeDocumentMoniker": "PhysicsEngine\\Dynamics\\RigitdBody.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Dynamics\\RigitdBody.cs",
-              "RelativeToolTip": "PhysicsEngine\\Dynamics\\RigitdBody.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Title": "CollisionDetector.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Collision\\CollisionDetector.cs",
+              "RelativeDocumentMoniker": "PhysicsEngine\\Collision\\CollisionDetector.cs",
+              "ToolTip": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Collision\\CollisionDetector.cs",
+              "RelativeToolTip": "PhysicsEngine\\Collision\\CollisionDetector.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwC0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T18:28:49.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CollisionManifold.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Collision\\CollisionManifold.cs",
+              "RelativeDocumentMoniker": "PhysicsEngine\\Collision\\CollisionManifold.cs",
+              "ToolTip": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Collision\\CollisionManifold.cs",
+              "RelativeToolTip": "PhysicsEngine\\Collision\\CollisionManifold.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAlwBEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T18:29:06.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CollisionResolver.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Collision\\CollisionResolver.cs",
+              "RelativeDocumentMoniker": "PhysicsEngine\\Collision\\CollisionResolver.cs",
+              "ToolTip": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Collision\\CollisionResolver.cs",
+              "RelativeToolTip": "PhysicsEngine\\Collision\\CollisionResolver.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T18:29:24.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LineCollider.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Collision\\LineCollider.cs",
+              "RelativeDocumentMoniker": "PhysicsEngine\\Collision\\LineCollider.cs",
+              "ToolTip": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Collision\\LineCollider.cs",
+              "RelativeToolTip": "PhysicsEngine\\Collision\\LineCollider.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T10:43:24.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhysicsMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Dynamics\\PhysicsMaterial.cs",
+              "RelativeDocumentMoniker": "PhysicsEngine\\Dynamics\\PhysicsMaterial.cs",
+              "ToolTip": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Dynamics\\PhysicsMaterial.cs",
+              "RelativeToolTip": "PhysicsEngine\\Dynamics\\PhysicsMaterial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T18:28:19.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RigidBody.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Dynamics\\RigidBody.cs",
+              "RelativeDocumentMoniker": "PhysicsEngine\\Dynamics\\RigidBody.cs",
+              "ToolTip": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Dynamics\\RigidBody.cs",
+              "RelativeToolTip": "PhysicsEngine\\Dynamics\\RigidBody.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAnwCEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-08T18:27:55.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vector2.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\MathCalculator\\Vector2.cs",
+              "RelativeDocumentMoniker": "PhysicsEngine\\MathCalculator\\Vector2.cs",
+              "ToolTip": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\MathCalculator\\Vector2.cs",
+              "RelativeToolTip": "PhysicsEngine\\MathCalculator\\Vector2.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwCIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T18:27:25.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "PhysicsEngine",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\PhysicsEngine.csproj",
+              "Title": "Matrix2.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\MathCalculator\\Matrix2.cs",
+              "RelativeDocumentMoniker": "PhysicsEngine\\MathCalculator\\Matrix2.cs",
+              "ToolTip": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\MathCalculator\\Matrix2.cs",
+              "RelativeToolTip": "PhysicsEngine\\MathCalculator\\Matrix2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T18:27:36.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Constants.cs",
+              "RelativeDocumentMoniker": "PhysicsEngine\\Constants.cs",
+              "ToolTip": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\Constants.cs",
+              "RelativeToolTip": "PhysicsEngine\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T18:23:52.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PhysicsEngine.csproj",
+              "DocumentMoniker": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\PhysicsEngine.csproj",
               "RelativeDocumentMoniker": "PhysicsEngine\\PhysicsEngine.csproj",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\PhysicsEngine.csproj",
+              "ToolTip": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\PhysicsEngine\\PhysicsEngine.csproj",
               "RelativeToolTip": "PhysicsEngine\\PhysicsEngine.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -262,45 +284,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Constants.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Constants.cs",
-              "RelativeDocumentMoniker": "PhysicsEngine\\Constants.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\PhysicsEngine\\Constants.cs",
-              "RelativeToolTip": "PhysicsEngine\\Constants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T18:23:52.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\Server\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\Server\\Program.cs",
+              "ToolTip": "C:\\Users\\natan\\OneDrive\\Desktop\\Billiard\\Server\\Program.cs",
               "RelativeToolTip": "Server\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T17:08:07.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\Game\\Form1.cs",
-              "RelativeDocumentMoniker": "Game\\Form1.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\8-Pool\\Billiard\\Game\\Form1.cs [Design]",
-              "RelativeToolTip": "Game\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T16:54:16.66Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+              "WhenOpened": "2026-09-08T17:08:07.938Z"
             }
           ]
         }
